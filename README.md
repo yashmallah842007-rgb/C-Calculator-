@@ -1,7 +1,7 @@
 //C++ simple calculator
 #include<iostream>
 using namespace std;
-//function defination
+//function defination 
 int add( int a, int b){
     return a + b;
 }
